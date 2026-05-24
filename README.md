@@ -6,13 +6,7 @@ This project is an interactive **Uber Analytics Dashboard** built using **Micros
 
 The goal of this project is to demonstrate practical **Business Analytics** and **Data Visualization** skills by transforming ride-related data into meaningful business insights.
 
----
-
-## Project File
-
-* `uber dashboard.pbix` – Main Power BI dashboard file
-
----
+--
 
 ## Dashboard Pages
 
@@ -65,4 +59,5 @@ This project showcases:
 
 ---
 🔗 Dashboard Screenshot 
+https://github.com/shahayush209-svg/uber-analysis/blob/main/uber.png
 
