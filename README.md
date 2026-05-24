@@ -1,5 +1,3 @@
-# uber-analysis
-
 # Uber Ride Analytics Dashboard
 
 ## Project Objective
